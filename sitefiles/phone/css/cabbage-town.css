@@ -1,0 +1,115 @@
+@-ms-viewport
+{
+	width: 640px;
+}
+
+@-webkit-viewport
+{
+	width: 640px;
+}
+
+@-o-viewport
+{
+	width: 640px;
+}
+
+@-moz-viewport
+{
+	width: 640px;
+}
+
+@viewport
+{
+	width: 640px;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 640px;
+	min-height: 1152px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+}
+
+#u2892
+{
+	z-index: 2;
+	width: 484px;
+	border-color: #000000;
+	position: relative;
+	padding: 72px 76px 312.42499999999995px 80px;
+	background: transparent url("../../images/phonesizebgi_cbgtwn.jpg") no-repeat left top;
+	background-size: cover !important;
+}
+
+#u2732
+{
+	z-index: 40;
+	width: 225px;
+	margin-left: 259px;
+}
+
+#u2883-14
+{
+	z-index: 3;
+	display: block;
+	vertical-align: top;
+	margin-top: 19px;
+	position: relative;
+}
+
+#pu2884
+{
+	z-index: 17;
+	width: 0.01px;
+	position: relative;
+	margin-left: 259px;
+	margin-top: 7px;
+}
+
+#u2884
+{
+	z-index: 0;
+	width: 225px;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#pu2885-22
+{
+	width: 0.01px;
+	position: relative;
+	left: 31px;
+	padding-top: 25px;
+	z-index: 2;
+	padding-bottom: 24px;
+}
+
+#u2885-22
+{
+	z-index: 18;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

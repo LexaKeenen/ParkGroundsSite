@@ -1,0 +1,154 @@
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1024px;
+	min-height: 768px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -37px;
+}
+
+#u3721
+{
+	z-index: 2;
+	width: 1223px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	left: -100px;
+	background: #FFFFFF url("../images/bgi_visit.png") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u3721_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1025px;
+	position: relative;
+	left: -99px;
+	padding-top: 91px;
+	padding-bottom: 112px;
+}
+
+#pu394-4
+{
+	width: 0.01px;
+	left: 123px;
+	position: relative;
+}
+
+#u394-4
+{
+	z-index: 3;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u493
+{
+	z-index: 37;
+	width: 225px;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 743px;
+}
+
+#pu410
+{
+	z-index: 7;
+	width: 0.01px;
+	position: relative;
+	left: 251px;
+	margin-top: 51px;
+}
+
+#u410
+{
+	z-index: 0;
+	width: 727px;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#pu439-23
+{
+	width: 0.01px;
+	position: relative;
+	left: 144px;
+	padding-top: 59px;
+	z-index: 2;
+	padding-bottom: 42px;
+}
+
+#u439-23
+{
+	z-index: 8;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu1427
+{
+	width: 0.01px;
+	left: 518px;
+	margin-top: 22px;
+	position: relative;
+}
+
+#u1427
+{
+	z-index: 31;
+	width: 49px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1432
+{
+	z-index: 33;
+	width: 49px;
+	position: relative;
+	margin-right: -10000px;
+	left: 68px;
+}
+
+#u1437
+{
+	z-index: 35;
+	width: 49px;
+	position: relative;
+	margin-right: -10000px;
+	left: 136px;
+}
+
+body
+{
+	padding-top: 35px;
+}
+

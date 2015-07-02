@@ -1,0 +1,337 @@
+@-ms-viewport
+{
+	width: 1024px;
+}
+
+@-webkit-viewport
+{
+	width: 1024px;
+}
+
+@-o-viewport
+{
+	width: 1024px;
+}
+
+@-moz-viewport
+{
+	width: 1024px;
+}
+
+@viewport
+{
+	width: 1024px;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1024px;
+	min-height: 768px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+}
+
+#u2393
+{
+	z-index: 2;
+	width: 1024px;
+	border-color: #000000;
+	padding-bottom: 52px;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../../images/bgi_coffee.jpg") no-repeat left top;
+	background-size: cover !important;
+}
+
+#pu2362
+{
+	z-index: 11;
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 51px;
+	left: 103px;
+}
+
+#u2362
+{
+	z-index: 0;
+	width: 501px;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#ppu2380-41
+{
+	width: 0.01px;
+	position: relative;
+	left: 44px;
+	padding-top: 22px;
+	z-index: 2;
+	padding-bottom: 35px;
+}
+
+#u2380-41
+{
+	z-index: 12;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2381-42
+{
+	z-index: 70;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	left: 244px;
+}
+
+#u2382-15
+{
+	z-index: 112;
+	display: block;
+	vertical-align: top;
+	margin-left: 1px;
+	margin-top: 10px;
+	position: relative;
+}
+
+#pu1639
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 69px;
+	left: 655px;
+}
+
+#u1639
+{
+	z-index: 138;
+	width: 225px;
+	margin-left: 40px;
+}
+
+#u2105
+{
+	z-index: 3;
+	width: 221px;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	margin-top: 36px;
+	position: relative;
+}
+
+#u2105:hover
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	margin: 36px 0px 0px;
+}
+
+#u2107
+{
+	z-index: 5;
+	width: 221px;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	margin-top: 199px;
+	position: relative;
+}
+
+#u2107:hover
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	margin: 199px 0px 0px;
+}
+
+#u2109
+{
+	z-index: 7;
+	width: 221px;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 390px;
+	left: 655px;
+}
+
+#u2109:hover
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	margin: 390px -10000px 0px 0px;
+}
+
+#u2111
+{
+	z-index: 9;
+	width: 221px;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 290px;
+	left: 655px;
+}
+
+#u2111:hover
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	margin: 290px -10000px 0px 0px;
+}
+
+#u3064
+{
+	z-index: 53;
+	width: 221px;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 192px;
+	left: 699px;
+}
+
+#pu2380-41,#pu2364
+{
+	width: 0.01px;
+	position: relative;
+}
+
+#u2364
+{
+	z-index: 60;
+	width: 221px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2370
+{
+	z-index: 62;
+	width: 221px;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2374
+{
+	z-index: 54;
+	width: 221px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2368
+{
+	z-index: 68;
+	width: 221px;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2378
+{
+	z-index: 56;
+	width: 221px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2376
+{
+	z-index: 66;
+	width: 221px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu2374,#pu2378,#pu2366
+{
+	width: 0.01px;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+}
+
+#u2366
+{
+	z-index: 58;
+	width: 221px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2372
+{
+	z-index: 64;
+	width: 221px;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2370:hover,#u2368:hover,#u2372:hover
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2383-11
+{
+	z-index: 127;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 572px;
+	left: 340px;
+}
+

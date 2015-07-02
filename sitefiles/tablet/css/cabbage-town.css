@@ -1,0 +1,113 @@
+@-ms-viewport
+{
+	width: 1024px;
+}
+
+@-webkit-viewport
+{
+	width: 1024px;
+}
+
+@-o-viewport
+{
+	width: 1024px;
+}
+
+@-moz-viewport
+{
+	width: 1024px;
+}
+
+@viewport
+{
+	width: 1024px;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1024px;
+	min-height: 768px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+}
+
+#u2258
+{
+	z-index: 2;
+	width: 1032px;
+	position: relative;
+	margin-right: -10000px;
+	left: -8px;
+}
+
+#u2260-14
+{
+	z-index: 4;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 62px;
+	left: 102px;
+}
+
+#u1639
+{
+	z-index: 41;
+	width: 225px;
+	margin-right: -10000px;
+	margin-top: 69px;
+	left: 695px;
+}
+
+#pu2261
+{
+	z-index: 18;
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 192px;
+	left: 696px;
+}
+
+#u2261
+{
+	z-index: 0;
+	width: 225px;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#pu2262-22
+{
+	width: 0.01px;
+	position: relative;
+	left: 30px;
+	padding-top: 25px;
+	z-index: 2;
+	padding-bottom: 24px;
+}
+
+#u2262-22
+{
+	z-index: 19;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+

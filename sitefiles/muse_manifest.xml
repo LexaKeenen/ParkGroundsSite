@@ -1,0 +1,213 @@
+<manifest alg="2" build="329" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="417434784"/>
+    <file name="master_b-master.css" crc="4114678266" ref="news:breakfast:cabbage-town:visit:dog-park:beer:our-story:noms:lunch:coffee"/>
+    <file name="news.css" crc="4105504989" ref="news"/>
+    <file name="breakfast.css" crc="524521324" ref="breakfast"/>
+    <file name="cabbage-town.css" crc="458645974" ref="cabbage-town"/>
+    <file name="visit.css" crc="3929551052" ref="visit"/>
+    <file name="dog-park.css" crc="305464499" ref="dog-park"/>
+    <file name="beer.css" crc="394465447" ref="beer"/>
+    <file name="our-story.css" crc="7787683" ref="our-story"/>
+    <file name="index.css" crc="159000168" ref="index"/>
+    <file name="noms.css" crc="4283538451" ref="noms"/>
+    <file name="lunch.css" crc="222784325" ref="lunch"/>
+    <file name="coffee.css" crc="168307729" ref="coffee"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="phone>index:phone>noms:phone>coffee:phone>breakfast:phone>lunch:phone>beer:phone>dog-park:phone>visit:phone>news:phone>cabbage-town:phone>our-story:tablet>index:tablet>noms:tablet>dog-park:tablet>visit:tablet>news:tablet>cabbage-town:tablet>our-story:tablet>breakfast:tablet>beer:tablet>coffee:tablet>lunch:index:noms:coffee:lunch:breakfast:beer:visit:news:cabbage-town:dog-park:our-story"/>
+    <file name="museutils.js" crc="117816282" ref="phone>index:phone>noms:phone>coffee:phone>breakfast:phone>lunch:phone>beer:phone>dog-park:phone>visit:phone>news:phone>cabbage-town:phone>our-story:tablet>index:tablet>noms:tablet>dog-park:tablet>visit:tablet>news:tablet>cabbage-town:tablet>our-story:tablet>breakfast:tablet>beer:tablet>coffee:tablet>lunch:index:noms:coffee:lunch:breakfast:beer:visit:news:cabbage-town:dog-park:our-story"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="phone>index:phone>noms:phone>coffee:phone>breakfast:phone>lunch:phone>beer:phone>dog-park:phone>visit:phone>news:phone>cabbage-town:tablet>index:tablet>dog-park:tablet>our-story:tablet>coffee:dog-park:noms:coffee:lunch:breakfast:beer:visit:news:cabbage-town:our-story"/>
+    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="phone>index:phone>noms:phone>coffee:phone>breakfast:phone>lunch:phone>beer:phone>dog-park:phone>visit:phone>news:phone>cabbage-town:phone>our-story:tablet>dog-park:tablet>coffee:dog-park:noms:coffee:lunch:breakfast:visit:news:cabbage-town:our-story"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="phone>index:phone>noms:phone>coffee:phone>breakfast:phone>lunch:phone>beer:phone>dog-park:phone>visit:phone>news:phone>cabbage-town:phone>our-story"/>
+    <file name="museredirect.js" crc="4231348958" ref="index:noms:coffee:lunch:breakfast:beer:visit:news:cabbage-town:dog-park:our-story"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="95533481" ref="phone>index:index:phone>noms:noms"/>
+    <file name="noms-01.jpg" crc="134176322" ref="phone>index:tablet>index:index"/>
+    <file name="textboxhomepage-01.png" crc="525819101" ref="phone>index:tablet>index:index"/>
+    <file name="visit-01.jpg" crc="3949785833" ref="phone>index:tablet>index:index"/>
+    <file name="visitusbutton.png" crc="3935239296" ref="phone>index:tablet>index:index"/>
+    <file name="logo-01-u2754-fr.jpg" crc="72659112" ref="phone>index"/>
+    <file name="dogpark-01.jpg" crc="3810417463" ref="phone>index:tablet>index:index"/>
+    <file name="dogpark.png" crc="102030485" ref="phone>index:tablet>index:index"/>
+    <file name="ourstory.jpg" crc="3885794253" ref="phone>index:tablet>index:index"/>
+    <file name="ourstorybutton.png" crc="4293482846" ref="phone>index:tablet>index:index"/>
+    <file name="news-01.jpg" crc="275899471" ref="phone>index:tablet>index:index"/>
+    <file name="newsbutton.png" crc="51746962" ref="phone>index:tablet>index:index"/>
+    <file name="cabgtown-01.jpg" crc="71596636" ref="phone>index:tablet>index:index"/>
+    <file name="cabgtownbutton.png" crc="417005211" ref="phone>index:tablet>index:index"/>
+    <file name="phonesizebgi_noms.jpg" crc="24523980" ref="phone>noms"/>
+    <file name="logo.png" crc="461423926" ref="phone>noms:phone>coffee:phone>breakfast:phone>lunch:phone>beer:phone>dog-park:phone>visit:phone>news:phone>cabbage-town:phone>our-story:tablet>noms:tablet>dog-park:tablet>visit:tablet>news:tablet>cabbage-town:tablet>our-story:tablet>breakfast:tablet>beer:tablet>coffee:tablet>lunch:noms:coffee:lunch:breakfast:beer:visit:news:cabbage-town:dog-park:our-story"/>
+    <file name="u2775-6.png" crc="460276521" ref="phone>noms"/>
+    <file name="breakfastbutton.png" crc="4032730717" ref="phone>noms:tablet>noms:tablet>breakfast:tablet>beer:tablet>coffee:tablet>lunch:noms:coffee:lunch:breakfast:beer"/>
+    <file name="breakfastbutton_on.png" crc="346020953" ref="phone>noms:tablet>noms:tablet>breakfast:tablet>beer:tablet>coffee:tablet>lunch:noms:coffee:lunch:breakfast:beer"/>
+    <file name="lunchbutton.png" crc="84488012" ref="phone>noms:tablet>noms:tablet>breakfast:tablet>beer:tablet>coffee:tablet>lunch:noms:coffee:lunch:breakfast:beer"/>
+    <file name="lunchbutton_on.png" crc="146731329" ref="phone>noms:tablet>noms:tablet>breakfast:tablet>beer:tablet>coffee:tablet>lunch:noms:coffee:lunch:breakfast:beer"/>
+    <file name="coffeebutton.png" crc="341771629" ref="phone>noms:tablet>noms:tablet>breakfast:tablet>beer:tablet>coffee:tablet>lunch:noms:coffee:lunch:breakfast:beer"/>
+    <file name="coffeebutton_on.png" crc="3824299839" ref="phone>noms:tablet>noms:tablet>breakfast:tablet>beer:tablet>coffee:tablet>lunch:noms:coffee:lunch:breakfast:beer"/>
+    <file name="beerbutton.png" crc="437544055" ref="phone>noms:tablet>noms:tablet>breakfast:tablet>beer:tablet>coffee:tablet>lunch:noms:coffee:lunch:breakfast:beer"/>
+    <file name="beerbutton_on.png" crc="248914392" ref="phone>noms:tablet>noms:tablet>breakfast:tablet>beer:tablet>coffee:tablet>lunch:noms:coffee:lunch:breakfast:beer"/>
+    <file name="phonesizebgi_coffee.jpg" crc="4101321596" ref="phone>coffee"/>
+    <file name="backtonoms_off.png" crc="262918270" ref="phone>coffee:phone>breakfast:phone>lunch:phone>beer"/>
+    <file name="u3425-41.png" crc="4219407575" ref="phone>coffee"/>
+    <file name="u3426-42.png" crc="460648802" ref="phone>coffee"/>
+    <file name="u3427-15.png" crc="4119712204" ref="phone>coffee"/>
+    <file name="u3428-11.png" crc="499532594" ref="phone>coffee"/>
+    <file name="backtonombutton_on.png" crc="3867628822" ref="phone>coffee:phone>breakfast:phone>lunch:phone>beer"/>
+    <file name="phonesizebgi_breakfast.jpg" crc="4103067927" ref="phone>breakfast"/>
+    <file name="u3419-48.png" crc="4190188992" ref="phone>breakfast"/>
+    <file name="u3420-36.png" crc="525939572" ref="phone>breakfast"/>
+    <file name="phonesizebgi_lunch.jpg" crc="3828453143" ref="phone>lunch"/>
+    <file name="u3422-55.png" crc="124797164" ref="phone>lunch"/>
+    <file name="u3423-43.png" crc="76441517" ref="phone>lunch"/>
+    <file name="phonesizebgi_beer.jpg" crc="56685879" ref="phone>beer"/>
+    <file name="u3430-40.png" crc="4267504614" ref="phone>beer"/>
+    <file name="u3432-19.png" crc="3833032070" ref="phone>beer"/>
+    <file name="u3431-46.png" crc="3908802945" ref="phone>beer"/>
+    <file name="phonesizebgi_dogpark.jpg" crc="296462046" ref="phone>dog-park"/>
+    <file name="u2832-26.png" crc="4269357462" ref="phone>dog-park"/>
+    <file name="u2833-12.png" crc="3987599669" ref="phone>dog-park"/>
+    <file name="phonesizebgi_visit.jpg" crc="531961799" ref="phone>visit"/>
+    <file name="u2846-4.png" crc="4131858413" ref="phone>visit"/>
+    <file name="u2848-23.png" crc="281244372" ref="phone>visit"/>
+    <file name="facebookicon.png" crc="4069267167" ref="phone>visit:tablet>visit:tablet>news:visit:news:phone>news"/>
+    <file name="instabutton.png" crc="200486466" ref="phone>visit:tablet>visit:tablet>news:visit:news:phone>news"/>
+    <file name="twittericon.png" crc="436568279" ref="phone>visit:tablet>visit:tablet>news:visit:news:phone>news"/>
+    <file name="phonesizebgi_news.jpg" crc="3886682207" ref="phone>news"/>
+    <file name="u2860-7.png" crc="4157698490" ref="phone>news"/>
+    <file name="u2863-23.png" crc="4111236401" ref="phone>news"/>
+    <file name="u2880-19.png" crc="375274591" ref="phone>news"/>
+    <file name="u2881-5.png" crc="202374505" ref="phone>news"/>
+    <file name="u2862-16.png" crc="451820004" ref="phone>news"/>
+    <file name="phonesizebgi_cbgtwn.jpg" crc="514627549" ref="phone>cabbage-town"/>
+    <file name="u2883-14.png" crc="296470535" ref="phone>cabbage-town"/>
+    <file name="u2885-22.png" crc="45956533" ref="phone>cabbage-town"/>
+    <file name="phonesizebgi_ourstory.jpg" crc="4016033122" ref="phone>our-story"/>
+    <file name="u2886-10.png" crc="280859982" ref="phone>our-story"/>
+    <file name="u2888-9.png" crc="228792981" ref="phone>our-story"/>
+    <file name="logo-01-u2483-fr.jpg" crc="414854247" ref="tablet>index"/>
+    <file name="bgi_noms.jpg" crc="3927859645" ref="tablet>noms:noms"/>
+    <file name="u1996-6.png" crc="482815157" ref="tablet>noms"/>
+    <file name="bgi_dgprk.jpg" crc="344069882" ref="tablet>dog-park:dog-park"/>
+    <file name="u1958-12.png" crc="438468964" ref="tablet>dog-park"/>
+    <file name="u1957-26.png" crc="4269357462" ref="tablet>dog-park"/>
+    <file name="bgi_visit.png" crc="182323827" ref="tablet>visit:visit"/>
+    <file name="u2267-4.png" crc="46763809" ref="tablet>visit"/>
+    <file name="u2269-23.png" crc="281244372" ref="tablet>visit"/>
+    <file name="bgi_news.png" crc="4174398816" ref="tablet>news:news"/>
+    <file name="u2298-7.png" crc="182833206" ref="tablet>news"/>
+    <file name="u2300-24.png" crc="3807437697" ref="tablet>news"/>
+    <file name="u2301-22.png" crc="314036594" ref="tablet>news"/>
+    <file name="bgi_cbgtwn.png" crc="119956074" ref="tablet>cabbage-town:cabbage-town"/>
+    <file name="u2260-14.png" crc="211668899" ref="tablet>cabbage-town"/>
+    <file name="u2262-22.png" crc="45956533" ref="tablet>cabbage-town"/>
+    <file name="bgi_ourstry.png" crc="4174367140" ref="tablet>our-story:our-story"/>
+    <file name="u2317-10.png" crc="4228697035" ref="tablet>our-story"/>
+    <file name="u2319-22.png" crc="3764005168" ref="tablet>our-story"/>
+    <file name="bgi_breakfast.png" crc="3838783003" ref="tablet>breakfast:breakfast"/>
+    <file name="u2191-36.png" crc="525939572" ref="tablet>breakfast"/>
+    <file name="u2190-48.png" crc="4190188992" ref="tablet>breakfast"/>
+    <file name="bgi_beer.jpg" crc="4038907339" ref="tablet>beer:beer"/>
+    <file name="u2428-40.png" crc="4267504614" ref="tablet>beer"/>
+    <file name="u2430-19.png" crc="3833032070" ref="tablet>beer"/>
+    <file name="u2429-46.png" crc="3908802945" ref="tablet>beer"/>
+    <file name="bgi_coffee.jpg" crc="3849899147" ref="tablet>coffee:coffee"/>
+    <file name="u2380-41.png" crc="4219407575" ref="tablet>coffee"/>
+    <file name="u2381-42.png" crc="460648802" ref="tablet>coffee"/>
+    <file name="u2382-15.png" crc="4119712204" ref="tablet>coffee"/>
+    <file name="u2383-11.png" crc="499532594" ref="tablet>coffee"/>
+    <file name="bgi_lunch.jpg" crc="481128162" ref="tablet>lunch:lunch"/>
+    <file name="u2344-43.png" crc="76441517" ref="tablet>lunch"/>
+    <file name="u2343-55.png" crc="124797164" ref="tablet>lunch"/>
+    <file name="logo-01.jpg" crc="474824273" ref="index"/>
+    <file name="u391-6.png" crc="482815157" ref="noms"/>
+    <file name="u1521-11.png" crc="271060816" ref="coffee"/>
+    <file name="u1514-41.png" crc="4219407575" ref="coffee"/>
+    <file name="u1520-15.png" crc="4119712204" ref="coffee"/>
+    <file name="u1517-42.png" crc="461841478" ref="coffee"/>
+    <file name="u1524-53.png" crc="445786657" ref="lunch"/>
+    <file name="u1527-43.png" crc="3869131867" ref="lunch"/>
+    <file name="u1484-48.png" crc="534484693" ref="breakfast"/>
+    <file name="u1492-36.png" crc="532836015" ref="breakfast"/>
+    <file name="u1500-40.png" crc="4267504614" ref="beer"/>
+    <file name="u1504-19.png" crc="3833032070" ref="beer"/>
+    <file name="u1501-46.png" crc="3908802945" ref="beer"/>
+    <file name="u394-4.png" crc="46763809" ref="visit"/>
+    <file name="u439-23.png" crc="281244372" ref="visit"/>
+    <file name="u397-7.png" crc="182833206" ref="news"/>
+    <file name="u1453-22.png" crc="314036594" ref="news"/>
+    <file name="u1451-24.png" crc="3807437697" ref="news"/>
+    <file name="u384-14.png" crc="211668899" ref="cabbage-town"/>
+    <file name="u386-22.png" crc="45956533" ref="cabbage-town"/>
+    <file name="u382-12.png" crc="438468964" ref="dog-park"/>
+    <file name="u377-26.png" crc="4269357462" ref="dog-park"/>
+    <file name="u400-10.png" crc="4228697035" ref="our-story"/>
+    <file name="u1474-22.png" crc="357367479" ref="our-story"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_b-master.css" crc="4162709760" ref="tablet>visit:tablet>dog-park:tablet>beer:tablet>noms:tablet>coffee:tablet>cabbage-town:tablet>breakfast:tablet>lunch:tablet>news:tablet>our-story"/>
+      <file name="visit.css" crc="4209363547" ref="tablet>visit"/>
+      <file name="dog-park.css" crc="410546551" ref="tablet>dog-park"/>
+      <file name="index.css" crc="401143061" ref="tablet>index"/>
+      <file name="beer.css" crc="3861607256" ref="tablet>beer"/>
+      <file name="noms.css" crc="3999150875" ref="tablet>noms"/>
+      <file name="coffee.css" crc="293505878" ref="tablet>coffee"/>
+      <file name="cabbage-town.css" crc="120057134" ref="tablet>cabbage-town"/>
+      <file name="breakfast.css" crc="531605043" ref="tablet>breakfast"/>
+      <file name="lunch.css" crc="138182430" ref="tablet>lunch"/>
+      <file name="news.css" crc="380180300" ref="tablet>news"/>
+      <file name="our-story.css" crc="80819170" ref="tablet>our-story"/>
+    </folder>
+    <file name="index.html" crc="271286787" mt="1397663669019" redirect="true"/>
+    <file name="noms.html" crc="4088197779" mt="1398190658148" redirect="true"/>
+    <file name="dog-park.html" crc="3934783450" mt="1398190658150" redirect="true"/>
+    <file name="visit.html" crc="184209324" mt="1398190658151" redirect="true"/>
+    <file name="news.html" crc="234216623" mt="1398190658153" redirect="true"/>
+    <file name="cabbage-town.html" crc="4043162596" mt="1398190658155" redirect="true"/>
+    <file name="our-story.html" crc="358055489" mt="1398190658156" redirect="true"/>
+    <file name="breakfast.html" crc="3805280908" mt="1398190658158" redirect="true"/>
+    <file name="beer.html" crc="245218116" mt="1398190658160" redirect="true"/>
+    <file name="coffee.html" crc="324634436" mt="1398190658162" redirect="true"/>
+    <file name="lunch.html" crc="3947212087" mt="1398190658164" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_b-master.css" crc="125265894" ref="phone>dog-park:phone>visit:phone>news:phone>cabbage-town:phone>our-story:phone>coffee:phone>breakfast:phone>noms:phone>lunch:phone>beer"/>
+      <file name="dog-park.css" crc="4050537626" ref="phone>dog-park"/>
+      <file name="visit.css" crc="4093536982" ref="phone>visit"/>
+      <file name="news.css" crc="3975761729" ref="phone>news"/>
+      <file name="cabbage-town.css" crc="54042099" ref="phone>cabbage-town"/>
+      <file name="our-story.css" crc="4035942757" ref="phone>our-story"/>
+      <file name="index.css" crc="4072214706" ref="phone>index"/>
+      <file name="coffee.css" crc="4224090099" ref="phone>coffee"/>
+      <file name="breakfast.css" crc="496035505" ref="phone>breakfast"/>
+      <file name="noms.css" crc="4096674348" ref="phone>noms"/>
+      <file name="lunch.css" crc="4230298972" ref="phone>lunch"/>
+      <file name="beer.css" crc="3889098378" ref="phone>beer"/>
+    </folder>
+    <file name="index.html" crc="4260962728" mt="1397663416852" redirect="true"/>
+    <file name="noms.html" crc="467921454" mt="1398190658164" redirect="true"/>
+    <file name="coffee.html" crc="4193413077" mt="1398190658167" redirect="true"/>
+    <file name="breakfast.html" crc="387371198" mt="1398190658169" redirect="true"/>
+    <file name="lunch.html" crc="39288565" mt="1398190658170" redirect="true"/>
+    <file name="beer.html" crc="4060033364" mt="1398190658173" redirect="true"/>
+    <file name="dog-park.html" crc="294450235" mt="1398190658174" redirect="true"/>
+    <file name="visit.html" crc="151494983" mt="1398190658175" redirect="true"/>
+    <file name="news.html" crc="387675264" mt="1398190657314" redirect="true"/>
+    <file name="cabbage-town.html" crc="3774105902" mt="1398190658177" redirect="true"/>
+    <file name="our-story.html" crc="61821975" mt="1397704922959" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="201999024" mt="1398189227884" redirect="true"/>
+  <file name="noms.html" crc="4065205167" mt="1398368832901" redirect="true"/>
+  <file name="coffee.html" crc="377512942" mt="1398370281594" redirect="true"/>
+  <file name="lunch.html" crc="4279168020" mt="1398370467482" redirect="true"/>
+  <file name="breakfast.html" crc="4030295382" mt="1398370370868" redirect="true"/>
+  <file name="beer.html" crc="3991061160" mt="1398370779197" redirect="true"/>
+  <file name="visit.html" crc="4200524613" mt="1398369250430" redirect="true"/>
+  <file name="news.html" crc="4166484986" mt="1398369486978" redirect="true"/>
+  <file name="cabbage-town.html" crc="512551746" mt="1398369884642" redirect="true"/>
+  <file name="dog-park.html" crc="322468206" mt="1398369092892" redirect="true"/>
+  <file name="our-story.html" crc="4290020904" mt="1398370128311" redirect="true"/>
+</manifest>

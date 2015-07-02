@@ -1,0 +1,102 @@
+@-ms-viewport
+{
+	width: 1024px;
+}
+
+@-webkit-viewport
+{
+	width: 1024px;
+}
+
+@-o-viewport
+{
+	width: 1024px;
+}
+
+@-moz-viewport
+{
+	width: 1024px;
+}
+
+@viewport
+{
+	width: 1024px;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1024px;
+	min-height: 768px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+}
+
+#u2448
+{
+	z-index: 2;
+	width: 1032px;
+	border-color: #000000;
+	padding-bottom: 520px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: -8px;
+	background: #FFFFFF url("../../images/bgi_ourstry.png") no-repeat left top;
+	background-size: cover !important;
+}
+
+#u2317-10
+{
+	z-index: 3;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 57px;
+	left: 62px;
+}
+
+#u2318
+{
+	z-index: 13;
+	width: 612px;
+	height: 421px;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 192px;
+	left: 200px;
+}
+
+#u2319-22
+{
+	z-index: 14;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 242px;
+	left: 238px;
+}
+
+#u1639
+{
+	z-index: 36;
+	width: 225px;
+	margin-right: -10000px;
+	margin-top: 69px;
+	left: 695px;
+}
+

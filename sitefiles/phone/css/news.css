@@ -1,0 +1,186 @@
+@-ms-viewport
+{
+	width: 640px;
+}
+
+@-webkit-viewport
+{
+	width: 640px;
+}
+
+@-o-viewport
+{
+	width: 640px;
+}
+
+@-moz-viewport
+{
+	width: 640px;
+}
+
+@viewport
+{
+	width: 640px;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 640px;
+	min-height: 1152px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+}
+
+#u2873
+{
+	z-index: 2;
+	width: 559px;
+	border-color: #000000;
+	position: relative;
+	padding: 72px 41px 255px 40px;
+	background: transparent url("../../images/phonesizebgi_news.jpg") no-repeat left top;
+	background-size: cover !important;
+}
+
+#u2732
+{
+	z-index: 80;
+	width: 225px;
+	margin-left: 299px;
+}
+
+#u2860-7
+{
+	z-index: 3;
+	display: block;
+	vertical-align: top;
+	margin-left: 41px;
+	margin-top: 23px;
+	position: relative;
+}
+
+#pu2874
+{
+	z-index: 10;
+	width: 0.01px;
+	position: relative;
+	margin-top: 24px;
+}
+
+#u2874
+{
+	z-index: 0;
+	width: 559px;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#ppu2863-23
+{
+	width: 0.01px;
+	position: relative;
+	left: 24px;
+	padding-top: 49px;
+	z-index: 2;
+	padding-bottom: 43px;
+}
+
+#pu2863-23
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+}
+
+#u2863-23
+{
+	z-index: 27;
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u2880-19
+{
+	z-index: 50;
+	display: block;
+	vertical-align: top;
+	margin-top: 106px;
+	position: relative;
+}
+
+#u2881-5
+{
+	z-index: 69;
+	display: block;
+	vertical-align: top;
+	margin-left: 1px;
+	margin-top: 102px;
+	position: relative;
+}
+
+#u2862-16
+{
+	z-index: 11;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	left: 115px;
+}
+
+#pu3708
+{
+	width: 0.01px;
+	margin-left: 166px;
+	margin-top: 59px;
+	position: relative;
+}
+
+#u3708
+{
+	z-index: 74;
+	width: 49px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3710
+{
+	z-index: 76;
+	width: 49px;
+	position: relative;
+	margin-right: -10000px;
+	left: 88px;
+}
+
+#u3712
+{
+	z-index: 78;
+	width: 49px;
+	position: relative;
+	margin-right: -10000px;
+	left: 176px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
